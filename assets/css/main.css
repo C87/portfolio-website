@@ -2629,3 +2629,11 @@ input, select, textarea {
 			}
 
 	}
+
+.story {
+	max-width: 1000px;
+	width: 80%;
+	padding-top: 20px;
+	margin: auto !important;
+	display: block;
+}
